@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<parameters>
-  <setParameter name="IIS Web Application Name" value="db-creation" />
-  <setParameter name="localizacaoDaBD-Web.config Connection String" value="Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=|DataDirectory|\VetsDB.mdf;Integrated Security=True;" />
-</parameters>
